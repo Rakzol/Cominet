@@ -8,6 +8,6 @@ Registra tu restaurante y sus platillos para generar menus digitales QR
 
 Diseño responsivo para dispositivos moviles
 
-![alt text](https://raw.githubusercontent.com/Rakzol/Cominet/main/galeria1.png)
+![alt text](https://raw.githubusercontent.com/Rakzol/Cominet/main/galeria1.PNG)
 
-![alt text](https://raw.githubusercontent.com/Rakzol/Cominet/main/galeria1.png)
+![alt text](https://raw.githubusercontent.com/Rakzol/Cominet/main/galeria2.PNG)
