@@ -1,0 +1,9 @@
+window.addEventListener("load",()=>{
+    iniciar_categorias();
+    iniciar_galeria();
+    iniciar_restaurante();
+    iniciar_platillo();
+    iniciar_platillos();
+    //iniciar_progreso();
+    iniciar_restaurante();
+});
